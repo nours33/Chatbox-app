@@ -1,0 +1,29 @@
+.connexionBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    .connexion {
+        display: flex;
+        flex-direction: column;
+        width: 200px;
+        button {
+            background-color: #19BD9B;
+            border: none;
+            padding: 10px 10px;
+            font-weight: bold;
+            cursor: pointer;
+            margin-top: 20px;
+            border-radius: 5px;
+        }
+        input {
+            text-align: center;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 14px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    }
+}
