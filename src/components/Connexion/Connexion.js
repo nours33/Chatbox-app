@@ -30,7 +30,7 @@ class Connexion extends Component {
                     <input
                         onChange={this.handleChange}
                         type="text"
-                        placeholder="Pseudo"
+                        placeholder="PSEUDO"
                         required
                     />
                     <button type="submit">GO</button>

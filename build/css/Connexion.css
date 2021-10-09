@@ -1,0 +1,12 @@
+.connexionBox {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 500px;
+  font-size: 24px;
+}
+
+.connexion > * {
+  width: 100%;
+}
+/*# sourceMappingURL=Connexion.css.map */
